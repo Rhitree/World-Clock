@@ -9,7 +9,7 @@ body {
     max-width: 650px;
     padding: 40px;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 60px;
     border-radius: 25px;
     opacity: .8;
     background: hsl(154 50% 5%);
@@ -34,9 +34,21 @@ select {
     margin-bottom: 30px;
 }
 
+.location-header {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+hr {
+    border-color: hsl(154 84% 70%);
+}
+
 h1 {
     text-align: center;
     font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
 
 h2 {
