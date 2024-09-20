@@ -1,0 +1,21 @@
+body {
+    background-color: darkslategray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.container {
+    padding: 30px;
+    margin: 60px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    opacity: .8;
+}
