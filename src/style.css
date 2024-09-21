@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    max-width: 650px;
+    width: 650px;
     padding: 40px;
     margin: 0 auto;
     display: block;
@@ -23,7 +23,6 @@ body {
     text-shadow: 0 0 4px hsl(154 84% 70%);
     font-size: 16px;
     box-shadow: hsl(154 84% 70%) 0 0 90px 33px;
-    width: fit-content;
 }
 
 select {
@@ -47,7 +46,7 @@ select {
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
-    padding: 0;
+    margin: auto;
 }
 
 .location-header {
