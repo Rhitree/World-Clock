@@ -8,13 +8,14 @@ body {
     display: block;
     font-family: "Orbitron", sans-serif;
     font-weight: lighter;
+    padding: 60px;
 }
 
 .container {
     max-width: 650px;
     padding: 40px;
     margin: 0 auto;
-    margin: 60px;
+    display: block;
     border-radius: 25px;
     opacity: .8;
     background: hsl(154 50% 5%);
