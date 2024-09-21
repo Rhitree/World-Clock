@@ -41,6 +41,15 @@ select {
     margin-bottom: 50px;
 }
 
+.reset {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0;
+}
+
 .location-header {
     text-align: center;
     font-size: 25px;
