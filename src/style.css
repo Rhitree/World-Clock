@@ -40,6 +40,10 @@ select {
     margin-bottom: 50px;
 }
 
+select:focus {
+    outline: none;
+}
+
 .reset {
     text-align: center;
     display: block;
